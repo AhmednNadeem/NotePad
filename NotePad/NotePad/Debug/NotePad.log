@@ -1,0 +1,3 @@
+﻿  NotePad2.cpp
+C:\Users\HP\source\repos\NotePad\NotePad\NotePad2.cpp(315): warning C4018: '<': signed/unsigned mismatch
+  NotePad.vcxproj -> C:\Users\HP\source\repos\NotePad\Debug\NotePad.exe
